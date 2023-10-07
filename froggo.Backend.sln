@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "froggo.Parser", "backend\froggo.Parser\froggo.Parser.csproj", "{FBAF2BBD-C44F-49F7-ACB3-6FB90C69EE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "froggo.API", "backend\froggo.API\froggo.API.csproj", "{15C6F047-04B9-45CA-8028-287D93C70704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBAF2BBD-C44F-49F7-ACB3-6FB90C69EE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAF2BBD-C44F-49F7-ACB3-6FB90C69EE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAF2BBD-C44F-49F7-ACB3-6FB90C69EE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAF2BBD-C44F-49F7-ACB3-6FB90C69EE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C6F047-04B9-45CA-8028-287D93C70704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C6F047-04B9-45CA-8028-287D93C70704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C6F047-04B9-45CA-8028-287D93C70704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C6F047-04B9-45CA-8028-287D93C70704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
